@@ -1,0 +1,10 @@
+#virtual enviorments 
+.venv
+
+.log
+
+.vscode/
+
+.cph
+
+IBM
